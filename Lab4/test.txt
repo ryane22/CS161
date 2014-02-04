@@ -1,0 +1,4 @@
+This is a file of text
+written to test the file copying programs in CSci 161.
+   It has several lines,   with    varied spacing,
+to illustrate  how   nextLine()   works in the Scanner.

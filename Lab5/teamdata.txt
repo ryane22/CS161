@@ -1,0 +1,32 @@
+Arizona Cardinals, 21.8
+Atlanta Falcons, 21.9
+Baltimore Ravens, 16.6
+Buffalo Bills, 27.1
+Carolina Panthers, 26.8
+Chicago Bears, 21.3
+Cincinnati Bengals, 20.2
+Cleveland Browns, 19.2
+Dallas Cowboys, 21.7
+Denver Broncos, 24.4
+Detroit Lions, 24.2
+Green Bay Packers, 22.4
+Houston Texans, 17.4
+Indianapolis Colts, 26.9
+Jacksonville Jaguars, 20.6
+Kansas City Chiefs, 21.1
+Miami Dolphins, 19.6
+Minnesota Vikings, 28.1
+New England Patriots, 21.4
+New Orleans Saints, 21.2
+New York Giants, 25.0
+New York Jets, 22.7
+Oakland Raiders, 27.1
+Philadelphia Eagles, 20.5
+Pittsburgh Steelers, 14.2
+San Diego Chargers, 23.6
+San Francisco 49ers, 14.3
+Seattle Seahawks, 19.7
+St. Louis Rams, 25.4
+Tampa Bay Buccaneers, 30.9
+Tennessee Titans, 19.8
+Washington Redskins, 22.9

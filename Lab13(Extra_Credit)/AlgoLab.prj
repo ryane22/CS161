@@ -1,0 +1,7 @@
+project "Sort Comparison"
+generator IntSetGenerator
+parameter N "Set Size"
+parameter M "Maximum"
+algorithm InsertSort
+algorithm MergeSort
+algorithm BubbleSort

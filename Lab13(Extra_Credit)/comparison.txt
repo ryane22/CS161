@@ -1,0 +1,36 @@
+Bubble
+Best Case Comparisons and Swaps:  O(n)
+Worst Case Comparisons and Swaps: O(n^2)
+Memory Complexity O(1)
+Step Graph:
+The bubble sort step graph shows the number of steps greatly rising as the set gets larger and levels out
+Time Graph:
+Time is constant no matter the size
+Space Graph:
+Constant space is needed no matter the size
+
+Insertion
+Best Case Comparisons and Swaps:  O(n)
+Worst Case Comparisons and Swaps: O(n^2)
+Memory Complexity O(1)
+Step Graph:
+The insert sort step graph shows the number of steps rising as the set gets larger
+but levels out
+Time Graph:
+Time is constant no matter the size
+Space Graph:
+Constant space is needed no matter the size
+
+Merge
+Best Case Time Complexity O(nlogn)
+Worst Case Time Complexity O(nlogn)
+Memory Complexity O(n)
+Step Graph:
+The bubble sort step graph shows the number of steps gently rising as the set gets larger and levls out
+Time Graph:
+Time is constant no matter the size
+Space Graph:
+Constant space is needed no matter the size, but is more than the space needed for the other sorts
+
+For a constant set size and variable maximum:
+Merge sort is the best for larger list, bubble is the worst for large list, and insertion falls in the middle.

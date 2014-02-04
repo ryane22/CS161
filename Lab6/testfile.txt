@@ -1,0 +1,1 @@
+This is a file of text to test the WordCounter program.  It has lots of words in it.  The WordCounter program will read these words, store them in a bag, and show a list of the frequencies of each word in the text.

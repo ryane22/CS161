@@ -1,0 +1,4 @@
+
+The queue is first in first out so it will always find the best first position to change direction, the stack will only go back to the top of the stack or the last cell to check for the best postion to change direction.
+
+On shorter mazes there is not much difference between the two, ocassionaly the recursive test and queue test had the same paths. The stack test always had the longest path. On the 50 x 50 maze I made the queue had the shortest path, and the stack had, by far, the longest path, and the recursive path was different from the queue, but was also fairly short. I would say a queue is the best.
